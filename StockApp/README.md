@@ -9,6 +9,7 @@
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
 </a>
 </center>
+<br>
 The Spring Boot Stock Management System is a web-based application developed using Spring Boot framework and utilizes the H2 database for data storage. It is designed to manage stock inventory and facilitate efficient tracking and monitoring of stock items.
 
 ---
