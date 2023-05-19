@@ -9,6 +9,8 @@
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
 </a>
 </center>
+<br>
+
 This is a simple TODO application developed using Spring Boot framework, which allows users to manage their tasks in a convenient manner. The application uses an ArrayList as the data structure to store the tasks.
 
 
